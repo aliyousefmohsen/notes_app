@@ -14,7 +14,7 @@ class NotesApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(),
         body: Container(
-          child: Text("data"),
+          child: Column(),
         ),
       ),
     );
